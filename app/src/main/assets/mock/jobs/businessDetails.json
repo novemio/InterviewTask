@@ -1,0 +1,388 @@
+{
+  "businessId": "business-id-west-end",
+  "name": "London West End22",
+  "location": {
+    "address": "735 N Milliken Ave A, Ontario, CA 91764, USA",
+    "latitude": 34.06981,
+    "longitude": -117.55983,
+    "isIndoor": true,
+    "floor": "",
+    "displayAddress": "!!!"
+  },
+  "logoUrl": "https://s3.eu-west-1.amazonaws.com/dropit-admin-dev/images/858ea955-ebaf-46d9-a74b-d332cd1338b4.jpg",
+  "thumbnailUrl": "https://s3.eu-west-1.amazonaws.com/dropit-admin-dev/images/edba612f-4ef4-4ff4-9c7a-a8eb89e52e49.jpg",
+  "openHours": [
+    {
+      "dayOfWeek": "THURSDAY",
+      "fromHour": {
+        "hour": 10,
+        "minute": 0
+      },
+      "toHour": {
+        "hour": 22,
+        "minute": 0
+      }
+    }
+  ],
+  "phoneNumber": "972-12345222",
+  "dropPoints": [
+    {
+      "id": "drop-point-1-a",
+      "description": "regular service",
+      "floor": "1st floor",
+      "department": "Pollo Regular",
+      "displayOrder": "1",
+      "packages": [
+        {
+          "packageTag": "DA43222",
+          "type": "package-type-id-small",
+          "businessName": null,
+          "displayOrder": "1",
+          "isPriority": false
+        },
+        {
+          "packageTag": "DA17463",
+          "type": "package-type-id-small",
+          "businessName": null,
+          "displayOrder": "2",
+          "isPriority": false
+        },
+        {
+          "packageTag": "DA11836",
+          "type": "package-type-id-small",
+          "businessName": null,
+          "displayOrder": "3",
+          "isPriority": false
+        },
+        {
+          "packageTag": "DA45421",
+          "type": "package-type-id-small",
+          "businessName": null,
+          "displayOrder": "4",
+          "isPriority": false
+        },
+        {
+          "packageTag": "DA87765",
+          "type": "package-type-id-small",
+          "businessName": null,
+          "displayOrder": "5",
+          "isPriority": false
+        },
+        {
+          "packageTag": "DA17373",
+          "type": "package-type-id-small",
+          "businessName": null,
+          "displayOrder": "6",
+          "isPriority": false
+        },
+        {
+          "packageTag": "DA11211",
+          "type": "package-type-id-small",
+          "businessName": null,
+          "displayOrder": "7",
+          "isPriority": false
+        },
+        {
+          "packageTag": "DA09875",
+          "type": "package-type-id-small",
+          "businessName": null,
+          "displayOrder": "8",
+          "isPriority": false
+        },
+        {
+          "packageTag": "DA17462",
+          "type": "package-type-id-small",
+          "businessName": null,
+          "displayOrder": "9",
+          "isPriority": false
+        },
+        {
+          "packageTag": "DA18262",
+          "type": "package-type-id-small",
+          "businessName": null,
+          "displayOrder": "10",
+          "isPriority": false
+        },
+        {
+          "packageTag": "DA18264",
+          "type": "package-type-id-small",
+          "businessName": null,
+          "displayOrder": "11",
+          "isPriority": false
+        },
+        {
+          "packageTag": "DA66585",
+          "type": "package-type-id-small",
+          "businessName": null,
+          "displayOrder": "12",
+          "isPriority": false
+        },
+        {
+          "packageTag": "DA11818",
+          "type": "package-type-id-small",
+          "businessName": null,
+          "displayOrder": "13",
+          "isPriority": false
+        },
+        {
+          "packageTag": "DA12323",
+          "type": "package-type-id-small",
+          "businessName": null,
+          "displayOrder": "14",
+          "isPriority": false
+        },
+        {
+          "packageTag": "DA55120",
+          "type": "package-type-id-small",
+          "businessName": null,
+          "displayOrder": "15",
+          "isPriority": false
+        },
+        {
+          "packageTag": "DA11846",
+          "type": "package-type-id-small",
+          "businessName": null,
+          "displayOrder": "16",
+          "isPriority": false
+        },
+        {
+          "packageTag": "DA18253",
+          "type": "package-type-id-small",
+          "businessName": null,
+          "displayOrder": "17",
+          "isPriority": false
+        },
+        {
+          "packageTag": "DA18261",
+          "type": "package-type-id-small",
+          "businessName": null,
+          "displayOrder": "18",
+          "isPriority": false
+        },
+        {
+          "packageTag": "DB07191",
+          "type": "package-type-id-large",
+          "businessName": null,
+          "displayOrder": "19",
+          "isPriority": false
+        },
+        {
+          "packageTag": "DA13483",
+          "type": "package-type-id-small",
+          "businessName": null,
+          "displayOrder": "20",
+          "isPriority": false
+        }
+      ],
+      "isPriority": false
+    },
+    {
+      "id": "drop-point-1-b",
+      "description": "premium service",
+      "floor": "2nd floor",
+      "department": "Pollo Premium",
+      "displayOrder": "2",
+      "packages": [
+        {
+          "packageTag": "DA18362",
+          "type": "package-type-id-small",
+          "businessName": null,
+          "displayOrder": "1",
+          "isPriority": false
+        },
+        {
+          "packageTag": "DA19865",
+          "type": "package-type-id-small",
+          "businessName": null,
+          "displayOrder": "2",
+          "isPriority": false
+        },
+        {
+          "packageTag": "DA85949",
+          "type": "package-type-id-small",
+          "businessName": null,
+          "displayOrder": "3",
+          "isPriority": false
+        },
+        {
+          "packageTag": "DA65648",
+          "type": "package-type-id-small",
+          "businessName": null,
+          "displayOrder": "4",
+          "isPriority": false
+        },
+        {
+          "packageTag": "DA62221",
+          "type": "package-type-id-small",
+          "businessName": null,
+          "displayOrder": "5",
+          "isPriority": false
+        },
+        {
+          "packageTag": "DA18464",
+          "type": "package-type-id-small",
+          "businessName": null,
+          "displayOrder": "6",
+          "isPriority": false
+        },
+        {
+          "packageTag": "DA19362",
+          "type": "package-type-id-small",
+          "businessName": null,
+          "displayOrder": "7",
+          "isPriority": false
+        },
+        {
+          "packageTag": "DA11311",
+          "type": "package-type-id-small",
+          "businessName": null,
+          "displayOrder": "8",
+          "isPriority": false
+        },
+        {
+          "packageTag": "DA19373",
+          "type": "package-type-id-small",
+          "businessName": null,
+          "displayOrder": "9",
+          "isPriority": false
+        },
+        {
+          "packageTag": "DA78998",
+          "type": "package-type-id-small",
+          "businessName": null,
+          "displayOrder": "10",
+          "isPriority": false
+        },
+        {
+          "packageTag": "DA74442",
+          "type": "package-type-id-small",
+          "businessName": null,
+          "displayOrder": "11",
+          "isPriority": false
+        },
+        {
+          "packageTag": "DA11826",
+          "type": "package-type-id-small",
+          "businessName": null,
+          "displayOrder": "12",
+          "isPriority": false
+        },
+        {
+          "packageTag": "DB64526",
+          "type": "package-type-id-large",
+          "businessName": null,
+          "displayOrder": "13",
+          "isPriority": false
+        },
+        {
+          "packageTag": "DA19272",
+          "type": "package-type-id-small",
+          "businessName": null,
+          "displayOrder": "14",
+          "isPriority": false
+        },
+        {
+          "packageTag": "DA54675",
+          "type": "package-type-id-small",
+          "businessName": null,
+          "displayOrder": "15",
+          "isPriority": false
+        },
+        {
+          "packageTag": "DA78558",
+          "type": "package-type-id-small",
+          "businessName": null,
+          "displayOrder": "16",
+          "isPriority": false
+        },
+        {
+          "packageTag": "DB23511",
+          "type": "package-type-id-large",
+          "businessName": null,
+          "displayOrder": "17",
+          "isPriority": false
+        },
+        {
+          "packageTag": "DB23415",
+          "type": "package-type-id-large",
+          "businessName": null,
+          "displayOrder": "18",
+          "isPriority": false
+        },
+        {
+          "packageTag": "DA53229",
+          "type": "package-type-id-small",
+          "businessName": null,
+          "displayOrder": "19",
+          "isPriority": false
+        },
+        {
+          "packageTag": "DA86565",
+          "type": "package-type-id-small",
+          "businessName": null,
+          "displayOrder": "20",
+          "isPriority": false
+        },
+        {
+          "packageTag": "DA73836",
+          "type": "package-type-id-small",
+          "businessName": null,
+          "displayOrder": "21",
+          "isPriority": false
+        },
+        {
+          "packageTag": "DA77553",
+          "type": "package-type-id-small",
+          "businessName": null,
+          "displayOrder": "22",
+          "isPriority": false
+        },
+        {
+          "packageTag": "DA19264",
+          "type": "package-type-id-small",
+          "businessName": null,
+          "displayOrder": "23",
+          "isPriority": false
+        },
+        {
+          "packageTag": "DB12442",
+          "type": "package-type-id-large",
+          "businessName": null,
+          "displayOrder": "24",
+          "isPriority": false
+        },
+        {
+          "packageTag": "DA19827",
+          "type": "package-type-id-small",
+          "businessName": null,
+          "displayOrder": "25",
+          "isPriority": false
+        },
+        {
+          "packageTag": "DA19385",
+          "type": "package-type-id-small",
+          "businessName": null,
+          "displayOrder": "26",
+          "isPriority": false
+        },
+        {
+          "packageTag": "DA44567",
+          "type": "package-type-id-small",
+          "businessName": null,
+          "displayOrder": "27",
+          "isPriority": false
+        },
+        {
+          "packageTag": "DA00009",
+          "type": "package-type-id-small",
+          "businessName": null,
+          "displayOrder": "28",
+          "isPriority": false
+        }
+      ],
+      "isPriority": false
+    }
+  ],
+  "notes": "xxxXOXOX",
+  "isPriority": false
+}

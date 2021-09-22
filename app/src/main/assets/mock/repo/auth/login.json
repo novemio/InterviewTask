@@ -1,0 +1,144 @@
+{
+  "ambassadorId": "5a47b640-fcf0-44a7-af9b-887909fac214",
+  "name": "Milan Sekulic",
+  "email": null,
+  "token": "token",
+  "packageCodeMinimum": 3,
+  "packageCodeMaximum": 12,
+  "canPickup": true,
+  "canDeliver": false,
+  "canHandover": false,
+  "canTransfer": false,
+  "allowedZones": [
+    {
+      "operationalZoneId": "1",
+      "displayName": "London's West End",
+      "operationalSettings": {
+        "name": "London's West End",
+        "country": "GB",
+        "timezone": "Europe/London",
+        "currency": "GBP",
+        "endOfBusinessDay": "22:00:00"
+      },
+      "displaySettings": {
+        "centerLocation": {
+          "address": "Some Regent Street, London, UK",
+          "latitude": 51.515144,
+          "longitude": -0.144583
+        },
+        "defaultZoomLevel": 16.0,
+        "mainImage": "https://storage.googleapis.com/drpt-resources/west-end-main.jpg",
+        "siteSelectionImage": "https://storage.googleapis.com/drpt-resources/west-end-siteSelection.jpg",
+        "headerImage": "https://storage.googleapis.com/drpt-resources/west-end-siteSelection.jpg"
+      },
+      "isSiteIndoor": false,
+      "indoorConfiguration": {
+        "entranceFloor": ""
+      }
+    },
+    {
+      "operationalZoneId": "2",
+      "displayName": "Las Vegas North Premium Outlets",
+      "operationalSettings": {
+        "name": "Las Vegas North Premium Outlets",
+        "country": "US",
+        "timezone": "America/Los_Angeles",
+        "currency": "USD",
+        "endOfBusinessDay": "23:30:00"
+      },
+      "displaySettings": {
+        "centerLocation": {
+          "address": "875 S Grand Central Pkwy, Las Vegas, NV 89106-4541, USA",
+          "latitude": 36.16403,
+          "longitude": -115.156876
+        },
+        "defaultZoomLevel": 16.0,
+        "mainImage": "https://storage.googleapis.com/drpt-resources/vegas-main.jpg",
+        "siteSelectionImage": "https://storage.googleapis.com/drpt-resources/vegas-siteSelection.jpg",
+        "headerImage": "https://storage.googleapis.com/drpt-resources/vegas-siteSelection.jpg"
+      },
+      "isSiteIndoor": false,
+      "indoorConfiguration": {
+        "entranceFloor": ""
+      }
+    },
+    {
+      "operationalZoneId": "3",
+      "displayName": "London Designer Outlet",
+      "operationalSettings": {
+        "name": "London Designer Outlet",
+        "country": "GB",
+        "timezone": "Europe/London",
+        "currency": "GBP",
+        "endOfBusinessDay": "21:00:00"
+      },
+      "displaySettings": {
+        "centerLocation": {
+          "address": "Wembley Park Blvd, Wembley, UK",
+          "latitude": 51.55661,
+          "longitude": -0.283864
+        },
+        "defaultZoomLevel": 16.0,
+        "mainImage": "https://storage.googleapis.com/drpt-resources/wembley-main.jpg",
+        "siteSelectionImage": "https://storage.googleapis.com/drpt-resources/wembley-siteSelection.jpg",
+        "headerImage": "https://storage.googleapis.com/drpt-resources/wembley-siteSelection.jpg"
+      },
+      "isSiteIndoor": false,
+      "indoorConfiguration": {
+        "entranceFloor": ""
+      }
+    },
+    {
+      "operationalZoneId": "4",
+      "displayName": "Dropit Expansion Event",
+      "operationalSettings": {
+        "name": "Dropit Expansion Event",
+        "country": "US",
+        "timezone": "America/Los_Angeles",
+        "currency": "USD",
+        "endOfBusinessDay": "23:30:00"
+      },
+      "displaySettings": {
+        "centerLocation": {
+          "address": "3570 Las Vegas Boulevard South, Las Vegas, Nevada, USA",
+          "latitude": 36.116158,
+          "longitude": -115.17506
+        },
+        "defaultZoomLevel": 16.0,
+        "mainImage": "https://storage.googleapis.com/drpt-resources/vegas-main.jpg",
+        "siteSelectionImage": "https://storage.googleapis.com/drpt-resources/vegas-siteSelection.jpg",
+        "headerImage": "https://storage.googleapis.com/drpt-resources/vegas-siteSelection.jpg"
+      },
+      "isSiteIndoor": false,
+      "indoorConfiguration": {
+        "entranceFloor": ""
+      }
+    },
+    {
+      "operationalZoneId": "5",
+      "displayName": "The O2",
+      "operationalSettings": {
+        "name": "The O2",
+        "country": "GB",
+        "timezone": "Europe/London",
+        "currency": "GBP",
+        "endOfBusinessDay": "22:00:00"
+      },
+      "displaySettings": {
+        "centerLocation": {
+          "address": "Peninsula Square, Greenwich Peninsula, London SE10 0DX, UK",
+          "latitude": 51.50304,
+          "longitude": -0.003156
+        },
+        "defaultZoomLevel": 16.0,
+        "mainImage": "https://dropit-admin-dev.s3-eu-west-1.amazonaws.com/images/019a0924-1eec-438d-9e32-e354837d02bb.jpg",
+        "siteSelectionImage": "https://dropit-admin-dev.s3-eu-west-1.amazonaws.com/images/d8fbf0fc-e980-41ab-8d95-f211c940f77b.jpg",
+        "headerImage": "https://dropit-admin-dev.s3-eu-west-1.amazonaws.com/images/6ad255ba-d31d-47fe-b44f-9a24016cf0a3.jpg"
+      },
+      "isSiteIndoor": false,
+      "indoorConfiguration": {
+        "entranceFloor": ""
+      }
+    }
+  ]
+}

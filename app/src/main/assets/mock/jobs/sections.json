@@ -1,0 +1,660 @@
+{
+  "sections": [
+    {
+      "name": "A",
+      "businessesByCycles": [
+        {
+          "pickupCycle": {
+            "pickupDate": "2019-06-02",
+            "pickupTimeRange": {
+              "start": "21:00:00",
+              "end": "21:30:00"
+            }
+          },
+          "businesses": [
+            {
+              "businessId": "23e05eec",
+              "name": "Test store 2",
+              "location": {
+                "address": "110 St George's Ave, London N7 0AH, UK",
+                "latitude": 51.551888,
+                "longitude": -0.13251223,
+                "isIndoor": false,
+                "floor": "",
+                "displayAddress": "110 St George's Ave, London N7 0AH, UK"
+              },
+              "logoUrl": "https://s3.eu-west-1.amazonaws.com/dropit-admin-dev/images/67ed2787-5b90-4e85-89c8-150564083f10.jpg",
+              "thumbnailUrl": "https://s3.eu-west-1.amazonaws.com/dropit-admin-dev/images/8b3c5005-6efa-42ad-be3f-89e82b90869f.jpg",
+              "isPriority": true,
+              "displayOrder": "11",
+              "packageCount": "1"
+            }
+          ]
+        },
+        {
+          "pickupCycle": {
+            "pickupDate": "2019-06-24",
+            "pickupTimeRange": {
+              "start": "21:00:00",
+              "end": "21:30:00"
+            }
+          },
+          "businesses": [
+            {
+              "businessId": "23e05eec",
+              "name": "Test store 2",
+              "location": {
+                "address": "110 St George's Ave, London N7 0AH, UK",
+                "latitude": 51.551888,
+                "longitude": -0.13251223,
+                "isIndoor": false,
+                "floor": "",
+                "displayAddress": "110 St George's Ave, London N7 0AH, UK"
+              },
+              "logoUrl": "https://s3.eu-west-1.amazonaws.com/dropit-admin-dev/images/67ed2787-5b90-4e85-89c8-150564083f10.jpg",
+              "thumbnailUrl": "https://s3.eu-west-1.amazonaws.com/dropit-admin-dev/images/8b3c5005-6efa-42ad-be3f-89e82b90869f.jpg",
+              "isPriority": true,
+              "displayOrder": "4",
+              "packageCount": "10"
+            }
+          ]
+        },
+        {
+          "pickupCycle": {
+            "pickupDate": "2019-06-25",
+            "pickupTimeRange": {
+              "start": "21:00:00",
+              "end": "21:30:00"
+            }
+          },
+          "businesses": [
+            {
+              "businessId": "23e05eec",
+              "name": "Test store 2",
+              "location": {
+                "address": "110 St George's Ave, London N7 0AH, UK",
+                "latitude": 51.551888,
+                "longitude": -0.13251223,
+                "isIndoor": false,
+                "floor": "",
+                "displayAddress": "110 St George's Ave, London N7 0AH, UK"
+              },
+              "logoUrl": "https://s3.eu-west-1.amazonaws.com/dropit-admin-dev/images/67ed2787-5b90-4e85-89c8-150564083f10.jpg",
+              "thumbnailUrl": "https://s3.eu-west-1.amazonaws.com/dropit-admin-dev/images/8b3c5005-6efa-42ad-be3f-89e82b90869f.jpg",
+              "isPriority": true,
+              "displayOrder": "2",
+              "packageCount": "3"
+            }
+          ]
+        },
+        {
+          "pickupCycle": {
+            "pickupDate": "2019-06-26",
+            "pickupTimeRange": {
+              "start": "21:00:00",
+              "end": "21:30:00"
+            }
+          },
+          "businesses": [
+            {
+              "businessId": "23e05eec",
+              "name": "Test store 2",
+              "location": {
+                "address": "110 St George's Ave, London N7 0AH, UK",
+                "latitude": 51.551888,
+                "longitude": -0.13251223,
+                "isIndoor": false,
+                "floor": "",
+                "displayAddress": "110 St George's Ave, London N7 0AH, UK"
+              },
+              "logoUrl": "https://s3.eu-west-1.amazonaws.com/dropit-admin-dev/images/67ed2787-5b90-4e85-89c8-150564083f10.jpg",
+              "thumbnailUrl": "https://s3.eu-west-1.amazonaws.com/dropit-admin-dev/images/8b3c5005-6efa-42ad-be3f-89e82b90869f.jpg",
+              "isPriority": true,
+              "displayOrder": "3",
+              "packageCount": "4"
+            }
+          ]
+        },
+        {
+          "pickupCycle": {
+            "pickupDate": "2019-06-27",
+            "pickupTimeRange": {
+              "start": "21:00:00",
+              "end": "21:30:00"
+            }
+          },
+          "businesses": [
+            {
+              "businessId": "23e05eec",
+              "name": "Test store 2",
+              "location": {
+                "address": "110 St George's Ave, London N7 0AH, UK",
+                "latitude": 51.551888,
+                "longitude": -0.13251223,
+                "isIndoor": false,
+                "floor": "",
+                "displayAddress": "110 St George's Ave, London N7 0AH, UK"
+              },
+              "logoUrl": "https://s3.eu-west-1.amazonaws.com/dropit-admin-dev/images/67ed2787-5b90-4e85-89c8-150564083f10.jpg",
+              "thumbnailUrl": "https://s3.eu-west-1.amazonaws.com/dropit-admin-dev/images/8b3c5005-6efa-42ad-be3f-89e82b90869f.jpg",
+              "isPriority": true,
+              "displayOrder": "1",
+              "packageCount": "10"
+            }
+          ]
+        },
+        {
+          "pickupCycle": {
+            "pickupDate": "2019-06-28",
+            "pickupTimeRange": {
+              "start": "21:00:00",
+              "end": "21:30:00"
+            }
+          },
+          "businesses": [
+            {
+              "businessId": "23e05eec",
+              "name": "Test store 2",
+              "location": {
+                "address": "110 St George's Ave, London N7 0AH, UK",
+                "latitude": 51.551888,
+                "longitude": -0.13251223,
+                "isIndoor": false,
+                "floor": "",
+                "displayAddress": "110 St George's Ave, London N7 0AH, UK"
+              },
+              "logoUrl": "https://s3.eu-west-1.amazonaws.com/dropit-admin-dev/images/67ed2787-5b90-4e85-89c8-150564083f10.jpg",
+              "thumbnailUrl": "https://s3.eu-west-1.amazonaws.com/dropit-admin-dev/images/8b3c5005-6efa-42ad-be3f-89e82b90869f.jpg",
+              "isPriority": false,
+              "displayOrder": "7",
+              "packageCount": "1"
+            }
+          ]
+        },
+        {
+          "pickupCycle": {
+            "pickupDate": "2019-07-02",
+            "pickupTimeRange": {
+              "start": "21:00:00",
+              "end": "21:30:00"
+            }
+          },
+          "businesses": [
+            {
+              "businessId": "23e05eec",
+              "name": "Test store 2",
+              "location": {
+                "address": "110 St George's Ave, London N7 0AH, UK",
+                "latitude": 51.551888,
+                "longitude": -0.13251223,
+                "isIndoor": false,
+                "floor": "",
+                "displayAddress": "110 St George's Ave, London N7 0AH, UK"
+              },
+              "logoUrl": "https://s3.eu-west-1.amazonaws.com/dropit-admin-dev/images/67ed2787-5b90-4e85-89c8-150564083f10.jpg",
+              "thumbnailUrl": "https://s3.eu-west-1.amazonaws.com/dropit-admin-dev/images/8b3c5005-6efa-42ad-be3f-89e82b90869f.jpg",
+              "isPriority": false,
+              "displayOrder": "6",
+              "packageCount": "1"
+            }
+          ]
+        },
+        {
+          "pickupCycle": {
+            "pickupDate": "2019-07-10",
+            "pickupTimeRange": {
+              "start": "21:00:00",
+              "end": "21:30:00"
+            }
+          },
+          "businesses": [
+            {
+              "businessId": "23e05eec",
+              "name": "Test store 2",
+              "location": {
+                "address": "110 St George's Ave, London N7 0AH, UK",
+                "latitude": 51.551888,
+                "longitude": -0.13251223,
+                "isIndoor": false,
+                "floor": "",
+                "displayAddress": "110 St George's Ave, London N7 0AH, UK"
+              },
+              "logoUrl": "https://s3.eu-west-1.amazonaws.com/dropit-admin-dev/images/67ed2787-5b90-4e85-89c8-150564083f10.jpg",
+              "thumbnailUrl": "https://s3.eu-west-1.amazonaws.com/dropit-admin-dev/images/8b3c5005-6efa-42ad-be3f-89e82b90869f.jpg",
+              "isPriority": false,
+              "displayOrder": "5",
+              "packageCount": "3"
+            }
+          ]
+        },
+        {
+          "pickupCycle": {
+            "pickupDate": "2019-07-11",
+            "pickupTimeRange": {
+              "start": "21:00:00",
+              "end": "21:30:00"
+            }
+          },
+          "businesses": [
+            {
+              "businessId": "23e05eec",
+              "name": "Test store 2",
+              "location": {
+                "address": "110 St George's Ave, London N7 0AH, UK",
+                "latitude": 51.551888,
+                "longitude": -0.13251223,
+                "isIndoor": false,
+                "floor": "",
+                "displayAddress": "110 St George's Ave, London N7 0AH, UK"
+              },
+              "logoUrl": "https://s3.eu-west-1.amazonaws.com/dropit-admin-dev/images/67ed2787-5b90-4e85-89c8-150564083f10.jpg",
+              "thumbnailUrl": "https://s3.eu-west-1.amazonaws.com/dropit-admin-dev/images/8b3c5005-6efa-42ad-be3f-89e82b90869f.jpg",
+              "isPriority": false,
+              "displayOrder": "8",
+              "packageCount": "8"
+            }
+          ]
+        },
+        {
+          "pickupCycle": {
+            "pickupDate": "2019-07-12",
+            "pickupTimeRange": {
+              "start": "21:00:00",
+              "end": "21:30:00"
+            }
+          },
+          "businesses": [
+            {
+              "businessId": "23e05eec",
+              "name": "Test store 2",
+              "location": {
+                "address": "110 St George's Ave, London N7 0AH, UK",
+                "latitude": 51.551888,
+                "longitude": -0.13251223,
+                "isIndoor": false,
+                "floor": "",
+                "displayAddress": "110 St George's Ave, London N7 0AH, UK"
+              },
+              "logoUrl": "https://s3.eu-west-1.amazonaws.com/dropit-admin-dev/images/67ed2787-5b90-4e85-89c8-150564083f10.jpg",
+              "thumbnailUrl": "https://s3.eu-west-1.amazonaws.com/dropit-admin-dev/images/8b3c5005-6efa-42ad-be3f-89e82b90869f.jpg",
+              "isPriority": false,
+              "displayOrder": "10",
+              "packageCount": "1"
+            }
+          ]
+        },
+        {
+          "pickupCycle": {
+            "pickupDate": "2019-07-24",
+            "pickupTimeRange": {
+              "start": "21:00:00",
+              "end": "21:30:00"
+            }
+          },
+          "businesses": [
+            {
+              "businessId": "23e05eec",
+              "name": "Test store 2",
+              "location": {
+                "address": "110 St George's Ave, London N7 0AH, UK",
+                "latitude": 51.551888,
+                "longitude": -0.13251223,
+                "isIndoor": false,
+                "floor": "",
+                "displayAddress": "110 St George's Ave, London N7 0AH, UK"
+              },
+              "logoUrl": "https://s3.eu-west-1.amazonaws.com/dropit-admin-dev/images/67ed2787-5b90-4e85-89c8-150564083f10.jpg",
+              "thumbnailUrl": "https://s3.eu-west-1.amazonaws.com/dropit-admin-dev/images/8b3c5005-6efa-42ad-be3f-89e82b90869f.jpg",
+              "isPriority": true,
+              "displayOrder": "9",
+              "packageCount": "3"
+            }
+          ]
+        }
+      ],
+      "isPriority": true
+    },
+    {
+      "name": "Other",
+      "businessesByCycles": [
+        {
+          "pickupCycle": {
+            "pickupDate": "2019-06-12",
+            "pickupTimeRange": {
+              "start": "21:00:00",
+              "end": "21:30:00"
+            }
+          },
+          "businesses": [
+            {
+              "businessId": "ac474c3a",
+              "name": "Los Pollos Hermanos - O2",
+              "location": {
+                "address": "205 Regent Street",
+                "latitude": 37.009792,
+                "longitude": -76.35679,
+                "isIndoor": false,
+                "floor": null,
+                "displayAddress": "205 Regent Street"
+              },
+              "logoUrl": "https://s3-eu-west-1.amazonaws.com/dropit-admin-dev/images/363c3103-cabc-443d-9b41-4bb1e8fafc90.png",
+              "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/dropit-admin-dev/images/ed5f72fb-e6a3-44a3-9436-abde2f442ee8.png",
+              "isPriority": true,
+              "displayOrder": "2",
+              "packageCount": "4"
+            }
+          ]
+        },
+        {
+          "pickupCycle": {
+            "pickupDate": "2019-06-18",
+            "pickupTimeRange": {
+              "start": "21:00:00",
+              "end": "21:30:00"
+            }
+          },
+          "businesses": [
+            {
+              "businessId": "ac474c3a",
+              "name": "Los Pollos Hermanos - O2",
+              "location": {
+                "address": "205 Regent Street",
+                "latitude": 37.009792,
+                "longitude": -76.35679,
+                "isIndoor": false,
+                "floor": null,
+                "displayAddress": "205 Regent Street"
+              },
+              "logoUrl": "https://s3-eu-west-1.amazonaws.com/dropit-admin-dev/images/363c3103-cabc-443d-9b41-4bb1e8fafc90.png",
+              "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/dropit-admin-dev/images/ed5f72fb-e6a3-44a3-9436-abde2f442ee8.png",
+              "isPriority": true,
+              "displayOrder": "4",
+              "packageCount": "2"
+            }
+          ]
+        },
+        {
+          "pickupCycle": {
+            "pickupDate": "2019-06-19",
+            "pickupTimeRange": {
+              "start": "21:00:00",
+              "end": "21:30:00"
+            }
+          },
+          "businesses": [
+            {
+              "businessId": "ac474c3a",
+              "name": "Los Pollos Hermanos - O2",
+              "location": {
+                "address": "205 Regent Street",
+                "latitude": 37.009792,
+                "longitude": -76.35679,
+                "isIndoor": false,
+                "floor": null,
+                "displayAddress": "205 Regent Street"
+              },
+              "logoUrl": "https://s3-eu-west-1.amazonaws.com/dropit-admin-dev/images/363c3103-cabc-443d-9b41-4bb1e8fafc90.png",
+              "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/dropit-admin-dev/images/ed5f72fb-e6a3-44a3-9436-abde2f442ee8.png",
+              "isPriority": true,
+              "displayOrder": "6",
+              "packageCount": "2"
+            }
+          ]
+        },
+        {
+          "pickupCycle": {
+            "pickupDate": "2019-06-20",
+            "pickupTimeRange": {
+              "start": "21:00:00",
+              "end": "21:30:00"
+            }
+          },
+          "businesses": [
+            {
+              "businessId": "ac474c3a",
+              "name": "Los Pollos Hermanos - O2",
+              "location": {
+                "address": "205 Regent Street",
+                "latitude": 37.009792,
+                "longitude": -76.35679,
+                "isIndoor": false,
+                "floor": null,
+                "displayAddress": "205 Regent Street"
+              },
+              "logoUrl": "https://s3-eu-west-1.amazonaws.com/dropit-admin-dev/images/363c3103-cabc-443d-9b41-4bb1e8fafc90.png",
+              "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/dropit-admin-dev/images/ed5f72fb-e6a3-44a3-9436-abde2f442ee8.png",
+              "isPriority": true,
+              "displayOrder": "1",
+              "packageCount": "1"
+            }
+          ]
+        },
+        {
+          "pickupCycle": {
+            "pickupDate": "2019-06-24",
+            "pickupTimeRange": {
+              "start": "21:00:00",
+              "end": "21:30:00"
+            }
+          },
+          "businesses": [
+            {
+              "businessId": "ac474c3a",
+              "name": "Los Pollos Hermanos - O2",
+              "location": {
+                "address": "205 Regent Street",
+                "latitude": 37.009792,
+                "longitude": -76.35679,
+                "isIndoor": false,
+                "floor": null,
+                "displayAddress": "205 Regent Street"
+              },
+              "logoUrl": "https://s3-eu-west-1.amazonaws.com/dropit-admin-dev/images/363c3103-cabc-443d-9b41-4bb1e8fafc90.png",
+              "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/dropit-admin-dev/images/ed5f72fb-e6a3-44a3-9436-abde2f442ee8.png",
+              "isPriority": true,
+              "displayOrder": "8",
+              "packageCount": "3"
+            }
+          ]
+        },
+        {
+          "pickupCycle": {
+            "pickupDate": "2019-06-25",
+            "pickupTimeRange": {
+              "start": "21:00:00",
+              "end": "21:30:00"
+            }
+          },
+          "businesses": [
+            {
+              "businessId": "ac474c3a",
+              "name": "Los Pollos Hermanos - O2",
+              "location": {
+                "address": "205 Regent Street",
+                "latitude": 37.009792,
+                "longitude": -76.35679,
+                "isIndoor": false,
+                "floor": null,
+                "displayAddress": "205 Regent Street"
+              },
+              "logoUrl": "https://s3-eu-west-1.amazonaws.com/dropit-admin-dev/images/363c3103-cabc-443d-9b41-4bb1e8fafc90.png",
+              "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/dropit-admin-dev/images/ed5f72fb-e6a3-44a3-9436-abde2f442ee8.png",
+              "isPriority": false,
+              "displayOrder": "7",
+              "packageCount": "1"
+            }
+          ]
+        },
+        {
+          "pickupCycle": {
+            "pickupDate": "2019-06-26",
+            "pickupTimeRange": {
+              "start": "21:00:00",
+              "end": "21:30:00"
+            }
+          },
+          "businesses": [
+            {
+              "businessId": "ac474c3a",
+              "name": "Los Pollos Hermanos - O2",
+              "location": {
+                "address": "205 Regent Street",
+                "latitude": 37.009792,
+                "longitude": -76.35679,
+                "isIndoor": false,
+                "floor": null,
+                "displayAddress": "205 Regent Street"
+              },
+              "logoUrl": "https://s3-eu-west-1.amazonaws.com/dropit-admin-dev/images/363c3103-cabc-443d-9b41-4bb1e8fafc90.png",
+              "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/dropit-admin-dev/images/ed5f72fb-e6a3-44a3-9436-abde2f442ee8.png",
+              "isPriority": true,
+              "displayOrder": "11",
+              "packageCount": "1"
+            }
+          ]
+        },
+        {
+          "pickupCycle": {
+            "pickupDate": "2019-07-01",
+            "pickupTimeRange": {
+              "start": "21:00:00",
+              "end": "21:30:00"
+            }
+          },
+          "businesses": [
+            {
+              "businessId": "ac474c3a",
+              "name": "Los Pollos Hermanos - O2",
+              "location": {
+                "address": "205 Regent Street",
+                "latitude": 37.009792,
+                "longitude": -76.35679,
+                "isIndoor": false,
+                "floor": null,
+                "displayAddress": "205 Regent Street"
+              },
+              "logoUrl": "https://s3-eu-west-1.amazonaws.com/dropit-admin-dev/images/363c3103-cabc-443d-9b41-4bb1e8fafc90.png",
+              "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/dropit-admin-dev/images/ed5f72fb-e6a3-44a3-9436-abde2f442ee8.png",
+              "isPriority": true,
+              "displayOrder": "3",
+              "packageCount": "1"
+            }
+          ]
+        },
+        {
+          "pickupCycle": {
+            "pickupDate": "2019-07-08",
+            "pickupTimeRange": {
+              "start": "21:00:00",
+              "end": "21:30:00"
+            }
+          },
+          "businesses": [
+            {
+              "businessId": "ac474c3a",
+              "name": "Los Pollos Hermanos - O2",
+              "location": {
+                "address": "205 Regent Street",
+                "latitude": 37.009792,
+                "longitude": -76.35679,
+                "isIndoor": false,
+                "floor": null,
+                "displayAddress": "205 Regent Street"
+              },
+              "logoUrl": "https://s3-eu-west-1.amazonaws.com/dropit-admin-dev/images/363c3103-cabc-443d-9b41-4bb1e8fafc90.png",
+              "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/dropit-admin-dev/images/ed5f72fb-e6a3-44a3-9436-abde2f442ee8.png",
+              "isPriority": false,
+              "displayOrder": "12",
+              "packageCount": "1"
+            }
+          ]
+        },
+        {
+          "pickupCycle": {
+            "pickupDate": "2019-07-11",
+            "pickupTimeRange": {
+              "start": "21:00:00",
+              "end": "21:30:00"
+            }
+          },
+          "businesses": [
+            {
+              "businessId": "ac474c3a",
+              "name": "Los Pollos Hermanos - O2",
+              "location": {
+                "address": "205 Regent Street",
+                "latitude": 37.009792,
+                "longitude": -76.35679,
+                "isIndoor": false,
+                "floor": null,
+                "displayAddress": "205 Regent Street"
+              },
+              "logoUrl": "https://s3-eu-west-1.amazonaws.com/dropit-admin-dev/images/363c3103-cabc-443d-9b41-4bb1e8fafc90.png",
+              "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/dropit-admin-dev/images/ed5f72fb-e6a3-44a3-9436-abde2f442ee8.png",
+              "isPriority": false,
+              "displayOrder": "5",
+              "packageCount": "6"
+            }
+          ]
+        },
+        {
+          "pickupCycle": {
+            "pickupDate": "2019-07-22",
+            "pickupTimeRange": {
+              "start": "21:00:00",
+              "end": "21:30:00"
+            }
+          },
+          "businesses": [
+            {
+              "businessId": "ac474c3a",
+              "name": "Los Pollos Hermanos - O2",
+              "location": {
+                "address": "205 Regent Street",
+                "latitude": 37.009792,
+                "longitude": -76.35679,
+                "isIndoor": false,
+                "floor": null,
+                "displayAddress": "205 Regent Street"
+              },
+              "logoUrl": "https://s3-eu-west-1.amazonaws.com/dropit-admin-dev/images/363c3103-cabc-443d-9b41-4bb1e8fafc90.png",
+              "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/dropit-admin-dev/images/ed5f72fb-e6a3-44a3-9436-abde2f442ee8.png",
+              "isPriority": true,
+              "displayOrder": "10",
+              "packageCount": "1"
+            }
+          ]
+        },
+        {
+          "pickupCycle": {
+            "pickupDate": "2019-07-24",
+            "pickupTimeRange": {
+              "start": "21:00:00",
+              "end": "21:30:00"
+            }
+          },
+          "businesses": [
+            {
+              "businessId": "ac474c3a",
+              "name": "Los Pollos Hermanos - O2",
+              "location": {
+                "address": "205 Regent Street",
+                "latitude": 37.009792,
+                "longitude": -76.35679,
+                "isIndoor": false,
+                "floor": null,
+                "displayAddress": "205 Regent Street"
+              },
+              "logoUrl": "https://s3-eu-west-1.amazonaws.com/dropit-admin-dev/images/363c3103-cabc-443d-9b41-4bb1e8fafc90.png",
+              "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/dropit-admin-dev/images/ed5f72fb-e6a3-44a3-9436-abde2f442ee8.png",
+              "isPriority": true,
+              "displayOrder": "9",
+              "packageCount": "2"
+            }
+          ]
+        }
+      ],
+      "isPriority": true
+    }
+  ]
+}
